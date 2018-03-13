@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="ASCII"?>
+<te5:TestSet
+    xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:te5="www.ehu.eus/sgi/test5"
+    xsi:schemaLocation="www.ehu.eus/sgi/test5 ../metamodel/TestMM-5.ecore"
+    name="testexample">
+  <ts id="1">
+    <md user="admin"
+        webpage="ehu/eus"/>
+    <act id="10"/>
+    <act id="5"/>
+  </ts>
+  <ts id="2">
+    <md user="admin"
+        webpage="acme.org"/>
+    <act id="20"/>
+    <act id="15"/>
+    <act id="8"/>
+  </ts>
+  <ts id="3">
+    <md user="mike"
+        webpage="ehu/eus"/>
+    <act id="12"/>
+  </ts>
+  <ts id="4">
+    <md user="johny"
+        webpage="pete"/>
+    <act id="6"/>
+  </ts>
+</te5:TestSet>
