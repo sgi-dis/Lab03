@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmi:id="_y1mxEN07EeWLZLWmH3NMtg" type="EcoreTools" measurementUnit="Pixel">
+  <children xmi:type="notation:Node" xmi:id="_y1vT8N07EeWLZLWmH3NMtg" type="1001">
+    <children xmi:type="notation:Node" xmi:id="_y1vT8907EeWLZLWmH3NMtg" type="4001"/>
+    <children xmi:type="notation:Node" xmi:id="_y1vT9N07EeWLZLWmH3NMtg" type="5001">
+      <children xmi:type="notation:Node" xmi:id="_y1v7AN07EeWLZLWmH3NMtg" type="2001">
+        <element xmi:type="ecore:EAttribute" href="TestSuite.ecore#//Testsuite/ident"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_y1v7Ad07EeWLZLWmH3NMtg"/>
+      </children>
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_y1vT9d07EeWLZLWmH3NMtg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_y1vT9t07EeWLZLWmH3NMtg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_y1vT9907EeWLZLWmH3NMtg"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_y1vT-N07EeWLZLWmH3NMtg" type="5002">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_y1vT-d07EeWLZLWmH3NMtg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_y1vT-t07EeWLZLWmH3NMtg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_y1vT-907EeWLZLWmH3NMtg"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_y1vT8d07EeWLZLWmH3NMtg" fontColor="4210752" fontName="Segoe UI" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EClass" href="TestSuite.ecore#//Testsuite"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_y1vT8t07EeWLZLWmH3NMtg" x="95" y="-95"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_y1v7At07EeWLZLWmH3NMtg" type="1001">
+    <children xmi:type="notation:Node" xmi:id="_y1v7Bd07EeWLZLWmH3NMtg" type="4001"/>
+    <children xmi:type="notation:Node" xmi:id="_y1v7Bt07EeWLZLWmH3NMtg" type="5001">
+      <children xmi:type="notation:Node" xmi:id="_y1wiFN07EeWLZLWmH3NMtg" type="2001">
+        <element xmi:type="ecore:EAttribute" href="TestSuite.ecore#//Testcase/ident"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_y1wiFd07EeWLZLWmH3NMtg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_y1wiFt07EeWLZLWmH3NMtg" type="2001">
+        <element xmi:type="ecore:EAttribute" href="TestSuite.ecore#//Testcase/date"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_y1wiF907EeWLZLWmH3NMtg"/>
+      </children>
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_y1v7B907EeWLZLWmH3NMtg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_y1v7CN07EeWLZLWmH3NMtg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_y1v7Cd07EeWLZLWmH3NMtg"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_y1wiEN07EeWLZLWmH3NMtg" type="5002">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_y1wiEd07EeWLZLWmH3NMtg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_y1wiEt07EeWLZLWmH3NMtg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_y1wiE907EeWLZLWmH3NMtg"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_y1v7A907EeWLZLWmH3NMtg" fontColor="4210752" fontName="Segoe UI" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EClass" href="TestSuite.ecore#//Testcase"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_y1v7BN07EeWLZLWmH3NMtg" x="100" y="25"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_y1wiGN07EeWLZLWmH3NMtg" type="1001">
+    <children xmi:type="notation:Node" xmi:id="_y1xJIN07EeWLZLWmH3NMtg" type="4001"/>
+    <children xmi:type="notation:Node" xmi:id="_y1xJId07EeWLZLWmH3NMtg" type="5001">
+      <children xmi:type="notation:Node" xmi:id="_y1xJKd07EeWLZLWmH3NMtg" type="2001">
+        <element xmi:type="ecore:EAttribute" href="TestSuite.ecore#//User/name"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_y1xJKt07EeWLZLWmH3NMtg"/>
+      </children>
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_y1xJIt07EeWLZLWmH3NMtg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_y1xJI907EeWLZLWmH3NMtg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_y1xJJN07EeWLZLWmH3NMtg"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_y1xJJd07EeWLZLWmH3NMtg" type="5002">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_y1xJJt07EeWLZLWmH3NMtg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_y1xJJ907EeWLZLWmH3NMtg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_y1xJKN07EeWLZLWmH3NMtg"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_y1wiGd07EeWLZLWmH3NMtg" fontColor="4210752" fontName="Segoe UI" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EClass" href="TestSuite.ecore#//User"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_y1wiGt07EeWLZLWmH3NMtg" x="-95" y="-15"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_y1xJK907EeWLZLWmH3NMtg" type="1001">
+    <children xmi:type="notation:Node" xmi:id="_y1xwMN07EeWLZLWmH3NMtg" type="4001"/>
+    <children xmi:type="notation:Node" xmi:id="_y1xwMd07EeWLZLWmH3NMtg" type="5001">
+      <children xmi:type="notation:Node" xmi:id="_y1xwOd07EeWLZLWmH3NMtg" type="2001">
+        <element xmi:type="ecore:EAttribute" href="TestSuite.ecore#//WebPage/url"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_y1xwOt07EeWLZLWmH3NMtg"/>
+      </children>
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_y1xwMt07EeWLZLWmH3NMtg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_y1xwM907EeWLZLWmH3NMtg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_y1xwNN07EeWLZLWmH3NMtg"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_y1xwNd07EeWLZLWmH3NMtg" type="5002">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_y1xwNt07EeWLZLWmH3NMtg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_y1xwN907EeWLZLWmH3NMtg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_y1xwON07EeWLZLWmH3NMtg"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_y1xJLN07EeWLZLWmH3NMtg" fontColor="4210752" fontName="Segoe UI" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EClass" href="TestSuite.ecore#//WebPage"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_y1xJLd07EeWLZLWmH3NMtg" x="-90" y="55"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_y1yXQN07EeWLZLWmH3NMtg" type="1001">
+    <children xmi:type="notation:Node" xmi:id="_y1yXQ907EeWLZLWmH3NMtg" type="4001"/>
+    <children xmi:type="notation:Node" xmi:id="_y1yXRN07EeWLZLWmH3NMtg" type="5001">
+      <children xmi:type="notation:Node" xmi:id="_y1yXTN07EeWLZLWmH3NMtg" type="2001">
+        <element xmi:type="ecore:EAttribute" href="TestSuite.ecore#//Tag/list"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_y1yXTd07EeWLZLWmH3NMtg"/>
+      </children>
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_y1yXRd07EeWLZLWmH3NMtg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_y1yXRt07EeWLZLWmH3NMtg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_y1yXR907EeWLZLWmH3NMtg"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_y1yXSN07EeWLZLWmH3NMtg" type="5002">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_y1yXSd07EeWLZLWmH3NMtg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_y1yXSt07EeWLZLWmH3NMtg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_y1yXS907EeWLZLWmH3NMtg"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_y1yXQd07EeWLZLWmH3NMtg" fontColor="4210752" fontName="Segoe UI" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EClass" href="TestSuite.ecore#//Tag"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_y1yXQt07EeWLZLWmH3NMtg" x="-95" y="-100"/>
+  </children>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_y1mxEd07EeWLZLWmH3NMtg"/>
+  <element xmi:type="ecore:EPackage" href="TestSuite.ecore#/"/>
+  <edges xmi:type="notation:Edge" xmi:id="_y1y-UN07EeWLZLWmH3NMtg" type="3002" source="_y1vT8N07EeWLZLWmH3NMtg" target="_y1v7At07EeWLZLWmH3NMtg">
+    <children xmi:type="notation:Node" xmi:id="_y1y-VN07EeWLZLWmH3NMtg" type="4011">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_y1y-Vd07EeWLZLWmH3NMtg" y="-10"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_y1y-Vt07EeWLZLWmH3NMtg" type="4012">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_y1y-V907EeWLZLWmH3NMtg" x="-4" y="12"/>
+    </children>
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_y1y-Ud07EeWLZLWmH3NMtg" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_y1y-Ut07EeWLZLWmH3NMtg" fontColor="4210752" fontName="Segoe UI" fontHeight="10"/>
+    <element xmi:type="ecore:EReference" href="TestSuite.ecore#//Testsuite/tcs"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_y1y-U907EeWLZLWmH3NMtg" points="[16, 49, -43, -132]$[40, 78, -19, -103]$[37, 115, -22, -66]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="__d6VYN07EeWLZLWmH3NMtg" id="(0.39285714285714285,0.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="__d6VYd07EeWLZLWmH3NMtg" id="(0.6607142857142857,1.0)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_y1y-WN07EeWLZLWmH3NMtg" type="3002" source="_y1vT8N07EeWLZLWmH3NMtg" target="_y1yXQN07EeWLZLWmH3NMtg">
+    <children xmi:type="notation:Node" xmi:id="_y1y-XN07EeWLZLWmH3NMtg" type="4011">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_y1y-Xd07EeWLZLWmH3NMtg" x="5" y="-14"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_y1y-Xt07EeWLZLWmH3NMtg" type="4012">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_y1y-X907EeWLZLWmH3NMtg" x="3" y="9"/>
+    </children>
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_y1y-Wd07EeWLZLWmH3NMtg" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_y1y-Wt07EeWLZLWmH3NMtg" fontColor="4210752" fontName="Segoe UI" fontHeight="10"/>
+    <element xmi:type="ecore:EReference" href="TestSuite.ecore#//Testsuite/tags"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_y1y-W907EeWLZLWmH3NMtg" points="[0, 0, -57, 79]$[57, -44, 0, 35]$[57, -79, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_y2RfcN07EeWLZLWmH3NMtg" id="(0.5982142857142857,0.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_y2Rfcd07EeWLZLWmH3NMtg" id="(0.3333333333333333,1.0)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_y1zlYN07EeWLZLWmH3NMtg" type="3002" source="_y1v7At07EeWLZLWmH3NMtg" target="_y1wiGN07EeWLZLWmH3NMtg">
+    <children xmi:type="notation:Node" xmi:id="_y1zlZN07EeWLZLWmH3NMtg" type="4011">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_y1zlZd07EeWLZLWmH3NMtg" x="1" y="-9"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_y1zlZt07EeWLZLWmH3NMtg" type="4012">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_y1zlZ907EeWLZLWmH3NMtg" x="1" y="11"/>
+    </children>
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_y1zlYd07EeWLZLWmH3NMtg" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_y1zlYt07EeWLZLWmH3NMtg" fontColor="4210752" fontName="Segoe UI" fontHeight="10"/>
+    <element xmi:type="ecore:EReference" href="TestSuite.ecore#//Testcase/usr"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_y1zlY907EeWLZLWmH3NMtg" points="[0, 0, 54, 62]$[-54, -26, 0, 36]$[-54, -62, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_0gzuoN07EeWLZLWmH3NMtg" id="(0.39285714285714285,0.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_0gzuod07EeWLZLWmH3NMtg" id="(0.6608695652173913,1.0)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_y1zlaN07EeWLZLWmH3NMtg" type="3002" source="_y1v7At07EeWLZLWmH3NMtg" target="_y1xJK907EeWLZLWmH3NMtg">
+    <children xmi:type="notation:Node" xmi:id="_y1zlbN07EeWLZLWmH3NMtg" type="4011">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_y1zlbd07EeWLZLWmH3NMtg" x="3" y="-11"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_y1zlbt07EeWLZLWmH3NMtg" type="4012">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_y1zlb907EeWLZLWmH3NMtg" x="2" y="8"/>
+    </children>
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_y1zlad07EeWLZLWmH3NMtg" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_y1zlat07EeWLZLWmH3NMtg" fontColor="4210752" fontName="Segoe UI" fontHeight="10"/>
+    <element xmi:type="ecore:EReference" href="TestSuite.ecore#//Testcase/wp"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_y1zla907EeWLZLWmH3NMtg" points="[0, 0, -58, 62]$[65, -31, 7, 31]$[65, -62, 7, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_y2SGgN07EeWLZLWmH3NMtg" id="(0.5982142857142857,0.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_y2SGgd07EeWLZLWmH3NMtg" id="(0.3333333333333333,1.0)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_y1zlcN07EeWLZLWmH3NMtg" type="3002" source="_y1v7At07EeWLZLWmH3NMtg" target="_y1vT8N07EeWLZLWmH3NMtg">
+    <children xmi:type="notation:Node" xmi:id="_y10McN07EeWLZLWmH3NMtg" type="4011">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_y10Mcd07EeWLZLWmH3NMtg" x="1" y="-11"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_y10Mct07EeWLZLWmH3NMtg" type="4012">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_y10Mc907EeWLZLWmH3NMtg" y="12"/>
+    </children>
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_y1zlcd07EeWLZLWmH3NMtg" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_y1zlct07EeWLZLWmH3NMtg" fontColor="4210752" fontName="Segoe UI" fontHeight="10"/>
+    <element xmi:type="ecore:EReference" href="TestSuite.ecore#//Testcase/tst"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_y1zlc907EeWLZLWmH3NMtg" points="[-22, -66, 37, 115]$[-19, -103, 40, 78]$[-43, -132, 16, 49]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_y2SGhN07EeWLZLWmH3NMtg" id="(0.6607142857142857,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_y2StkN07EeWLZLWmH3NMtg" id="(0.39285714285714285,0.0)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_y10MdN07EeWLZLWmH3NMtg" type="3002" source="_y1wiGN07EeWLZLWmH3NMtg" target="_y1v7At07EeWLZLWmH3NMtg">
+    <children xmi:type="notation:Node" xmi:id="_y10MeN07EeWLZLWmH3NMtg" type="4011">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_y10Med07EeWLZLWmH3NMtg" x="-10" y="-10"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_y10Met07EeWLZLWmH3NMtg" type="4012">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_y10Me907EeWLZLWmH3NMtg" x="1" y="9"/>
+    </children>
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_y10Mdd07EeWLZLWmH3NMtg" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_y10Mdt07EeWLZLWmH3NMtg" fontColor="4210752" fontName="Segoe UI" fontHeight="10"/>
+    <element xmi:type="ecore:EReference" href="TestSuite.ecore#//User/tc"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_y10Md907EeWLZLWmH3NMtg" points="[0, 0, -54, -62]$[0, 36, -54, -26]$[54, 62, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_y2Q4Yt07EeWLZLWmH3NMtg" id="(0.6608695652173913,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_y2Q4Y907EeWLZLWmH3NMtg" id="(0.39285714285714285,0.0)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_y10MfN07EeWLZLWmH3NMtg" type="3002" source="_y1xJK907EeWLZLWmH3NMtg" target="_y1v7At07EeWLZLWmH3NMtg">
+    <children xmi:type="notation:Node" xmi:id="_y10zgN07EeWLZLWmH3NMtg" type="4011">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_y10zgd07EeWLZLWmH3NMtg" x="-10" y="-10"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_y10zgt07EeWLZLWmH3NMtg" type="4012">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_y10zg907EeWLZLWmH3NMtg" x="2" y="15"/>
+    </children>
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_y10Mfd07EeWLZLWmH3NMtg" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_y10Mft07EeWLZLWmH3NMtg" fontColor="4210752" fontName="Segoe UI" fontHeight="10"/>
+    <element xmi:type="ecore:EReference" href="TestSuite.ecore#//WebPage/tc"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_y10Mf907EeWLZLWmH3NMtg" points="[7, 0, 65, -62]$[7, 31, 65, -31]$[-58, 62, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_09IeQN07EeWLZLWmH3NMtg" id="(0.3333333333333333,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_09IeQd07EeWLZLWmH3NMtg" id="(0.5982142857142857,0.0)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_y10zhN07EeWLZLWmH3NMtg" type="3002" source="_y1yXQN07EeWLZLWmH3NMtg" target="_y1vT8N07EeWLZLWmH3NMtg">
+    <children xmi:type="notation:Node" xmi:id="_y10ziN07EeWLZLWmH3NMtg" type="4011">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_y10zid07EeWLZLWmH3NMtg" x="-10" y="-10"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_y10zit07EeWLZLWmH3NMtg" type="4012">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_y10zi907EeWLZLWmH3NMtg" x="-3" y="11"/>
+    </children>
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_y10zhd07EeWLZLWmH3NMtg" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_y10zht07EeWLZLWmH3NMtg" fontColor="4210752" fontName="Segoe UI" fontHeight="10"/>
+    <element xmi:type="ecore:EReference" href="TestSuite.ecore#//Tag/tst"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_y10zh907EeWLZLWmH3NMtg" points="[0, 0, 57, -79]$[0, 35, 57, -44]$[-57, 79, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_1d9TYN07EeWLZLWmH3NMtg" id="(0.3333333333333333,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_1d9TYd07EeWLZLWmH3NMtg" id="(0.5982142857142857,0.0)"/>
+  </edges>
+</notation:Diagram>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ASCII"?>
+<te1:Test xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:te1="www.ehu.eus/sgi/test1"
+    xsi:schemaLocation="www.ehu.eus/sgi/test1 ../metamodel/TestMM-1.ecore"
+    id="12">
+  <act id="1"
+      description="the form must be filled"/>
+  <act id="2"
+      type="copy"
+      xpath="/div[1]/element/field[cityname]"
+      value="New York"/>
+  <act id="3"
+      type="click"
+      xpath="//div[5]/tab/tr[2]td[1]"
+      value=""/>
+</te1:Test>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<laborategia03:Group xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:laborategia03="http://laborategia03" xsi:schemaLocation="http://laborategia03 /laborategia03/metamodel/PersonsOne.ecore" name="groupone">
+  <persons name="John" age="50"/>
+  <persons name="John" age="80"/>
+  <persons name="John" age="75"/>
+  <persons name="Mary" age="70"/>
+  <persons name="Bob" age="55"/>
+  <persons xsi:type="laborategia03:Student" name="Charlie" age="20" grade="Software Engineering"/>
+  <persons xsi:type="laborategia03:Student" name="Anne" age="25" grade="Law"/>
+  <persons xsi:type="laborategia03:Student" name="Harry" age="68" grade="Social Studies"/>
+</laborategia03:Group>
